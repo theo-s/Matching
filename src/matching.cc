@@ -218,6 +218,7 @@ extern "C"
     double SumFooWeight, SumIndx3;
     long ic=3;
 
+    SumFoo = 0;
     N = asInteger(I_N);
     All = asInteger(I_All);
     length = asInteger(I_length);
